@@ -8,7 +8,7 @@ Trying out RFID stuff with an RFID-RC522
 
 1. `sudo raspi-config`, enable SPI
 2. `sudo pip install spidev`, `RPi.GPIO`
-3. `sudo pip install `pi-rc522`
+3. `sudo pip install pi-rc522`
 
 ## Test
 
